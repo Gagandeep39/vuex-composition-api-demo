@@ -1,24 +1,11 @@
-# vuex-composition-api-demo
+# Vuex Composition API demo
 
-## Project setup
-```
-yarn install
-```
+## Deployment
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+- Checkout deployment at https://gagandeep39.github.io/vuex-composition-api-demo/
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Other composition API projects
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Basic demo https://github.com/Gagandeep39/vue-composition-api-demo
+- Project Viewver (Advanced) https://github.com/Gagandeep39/project-viewer-vue
+- Project Management with Routing https://github.com/Gagandeep39/product-management-system-vue
